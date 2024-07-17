@@ -1,0 +1,334 @@
+{
+    "links":{
+        "value":[
+            {
+                "Title":"דשבורד",
+                "icon":"dashboard.png",
+                "path":"https://portal.army.idf/sites/gdud0383/Team/dohamal/dashboard/index.html#/"
+            },
+            {
+                "Title":"מילואימניק",
+                "icon":"miluim.png",
+                "path":""
+            },
+            {
+                "Title":"מיטתון",
+                "icon":"bed.png",
+                "path":""
+            },
+            {
+                "Title":"דוחמל",
+                "icon":"dohamal.png",
+                "path":"https://portal.army.idf/sites/gdud0383/Team/SitePages/test_dohamal/index.html#/"
+            },
+            {
+                "Title":"בום דיגיטל",
+                "icon":"boom digital.png",
+                "path":"https://boom.army.idf/pages/myDashboard"
+            },
+            {
+                "Title":"אתר חפיפה",
+                "icon":"hafifa.png",
+                "path":"https://portal.army.idf/sites/hafifon383"
+            }
+            
+         ]
+    },
+
+    "headLinks":{
+        "value":[
+            {
+                "Title":"aa",
+                "path":"https://dd"
+            },
+            {
+                "Title":"bb",
+                "path":"https://dd"
+            },
+            {
+                "Title":"cc",
+                "path":"https://dd"
+            } 
+             
+        ]
+    },
+
+    "images":{
+        "value":[
+            {
+                "id":1,
+                "Name":"aaa.jpg"
+            },
+            {   
+                "id":2,
+                "Name":"bbb.jpg"
+            },
+            {
+                "id":3,
+                "Name":"ccc.jpg"
+            },
+            {
+                "id":4,
+                "Name":"ddd.jpg"
+            },
+            {
+                "id":5,
+                "Name":"eee.jpg"
+            },
+            {
+                "id":6,
+                "Name":"rrr.jpg"
+            },
+            {
+                "id":7,
+                "Name":"ffff.jpg"
+            }
+        ]
+    },
+
+    "messages":{
+        "value":[
+            {
+                "Title":"ברוכים הבאים לאתר של גדוד 383"
+            },
+            {
+                "Title":"message 2"
+            },
+            {
+                "Title":"message 3"
+            }
+        ]
+    },
+
+    "moreLinks": {
+        "value":[
+            { "Title": "בטיחות", "path": "betichut" },
+            { "label": "חינוך", "path": "hinuch" },
+            {
+                "Title": "יוהל\"ם",
+                "path": "yohalan"
+              },
+              {
+                "Title": "איכות הסביבה",
+                "path": "haganalasviva"
+              },
+              {
+                "Title": "התגוננות",
+                "path": "itgonenut"
+              },
+              {
+                "Title": "דת",
+                "path": "dat"
+              },
+              {
+                "Title": "שגרה",
+                "path": "shigra"
+              },
+              {
+                "Title": "ת\"ש",
+                "path": "tash"
+              },
+              {
+                "Title": "תכנון חופשות",
+                "path": "shigra"
+              },
+              {
+                "Title": "ביקורת",
+                "path": "shigra"
+              }
+        ]
+    },
+
+    "contactList":{
+        "value":[
+            {
+                "Title":"aaa",
+                "job":"dfjdkjfikj",
+                "telRed":"1111111",
+                "telMatcali":"000000",
+                "phone":"",
+                "name":""
+            },
+            {
+                "Title":"bbb",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            },
+            {
+                "Title":"ccc",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"ddd",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"eee",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"fff",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+
+            ,
+            {
+                "Title":"ggg",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"hhh",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"iii",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"jjj",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"kkk",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"lll",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"mmm",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"nnn",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"ooo",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"ppp",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"qqq",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"rrr",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"sss",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"ttt",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+            ,
+            {
+                "Title":"uuu",
+                "job":"dfjdkjfikj",
+                "telRed":"00000",
+                "telMatcali":"1111",
+                "phone":"050-000-0000",
+                "name":"john doe"
+            }
+             
+        ]
+    }
+}
